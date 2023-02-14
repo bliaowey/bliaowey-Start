@@ -66,7 +66,7 @@ public class Guide {
      */
     public String guideMethod(String message){
 //        notice how both id and message are used here to produce unique text depending on how the method was used
-        return "Success from guide object " + id + "! it says: " + message ;
+        return "Success from guide object " + id + "! it says: " + message;
     }
     /**
      *  Now, locate the test class and run its test. It should pass, and your IDE should inform you about the results
